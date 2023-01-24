@@ -10,5 +10,6 @@ public class DeluxePizza extends Pizza {
          }
          else
              super.extraToppings=120;
+         addExtraCheese();
     }
 }
